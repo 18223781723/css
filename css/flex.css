@@ -1,0 +1,55 @@
+.df {
+  display: flex;
+}
+
+.dif {
+  display: inline-flex;
+}
+
+.fww {
+  flex-wrap: wrap;
+}
+
+.fdc {
+  flex-direction: column;
+}
+
+.aic {
+  align-items: center;
+}
+
+.aifs {
+  align-items: flex-start;
+}
+
+.aife {
+  align-items: flex-end;
+}
+
+.jcfs {
+  justify-content: flex-start;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.jcfe {
+  justify-content: flex-end;
+}
+
+.jcsb {
+  justify-content: space-between;
+}
+
+.jcsa {
+  justify-content: space-around;
+}
+
+.jcse {
+  justify-content: space-evenly;
+}
+
+.f1 {
+  flex: 1;
+}

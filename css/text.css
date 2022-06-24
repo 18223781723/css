@@ -1,0 +1,106 @@
+/* 字号 */
+.fs12 {
+  font-size: 12px;
+}
+
+.fs14 {
+  font-size: 14px;
+}
+
+.fs16 {
+  font-size: 16px;
+}
+
+.fs18 {
+  font-size: 18px;
+}
+
+.fs20 {
+  font-size: 20px;
+}
+
+.fs22 {
+  font-size: 22px;
+}
+
+.fs24 {
+  font-size: 24px;
+}
+
+.fs26 {
+  font-size: 26px;
+}
+
+.fs28 {
+  font-size: 28px;
+}
+
+.fs30 {
+  font-size: 30px;
+}
+
+.fs32 {
+  font-size: 32px;
+}
+
+.fs36 {
+  font-size: 36px;
+}
+
+.fs40 {
+  font-size: 40px;
+}
+
+/* 文本对齐方式 */
+.tal {
+  text-align: left;
+}
+
+.tar {
+  text-align: right;
+}
+
+.tac {
+  text-align: center;
+}
+
+.taj {
+  text-align: justify;
+}
+
+.tdn {
+  text-decoration: none;
+}
+
+.tdlt {
+  text-decoration: line-through;
+}
+
+/* 文本加粗 */
+.fwn {
+  font-weight: normal;
+}
+
+.fwb {
+  font-weight: bold;
+}
+
+/* 行高 */
+.lh1 {
+  line-height: 1;
+}
+
+/* 文本溢出 */
+.ellipsis {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.wsn {
+  white-space: nowrap;
+}
+
+.wspw {
+  white-space: pre-wrap;
+}

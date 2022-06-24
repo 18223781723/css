@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-size: 14px;
+  font-family: PingFang;
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+.bsbb {
+  box-sizing: border-box;
+}
+
+/* display */
+.db {
+  display: block;
+}
+
+.dn {
+  display: none;
+}
+
+.dib {
+  display: inline-block;
+}
+
+.cp {
+  cursor: pointer;
+}
+
+.pen {
+  pointer-events: none;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.vw100 {
+  width: 100vw;
+}
+
+/* 配合flex: 1;使用 */
+.w0 {
+  width: 0;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.vh100 {
+  height: 100vh;
+}
+
+.oa {
+  overflow: auto;
+}
+
+.oh {
+  overflow: hidden;
+}
+
+.pr {
+  position: relative;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.vat {
+  vertical-align: top;
+}
+
+.vam {
+  vertical-align: middle;
+}
+
+.lsn {
+  list-style: none;
+}
+
+.ofc {
+  object-fit: cover;
+}

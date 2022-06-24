@@ -1,0 +1,20 @@
+.br2 {
+  border-radius: 2px;
+}
+
+.br4 {
+  border-radius: 4px;
+}
+
+.br5 {
+  border-radius: 5px;
+}
+
+.br10 {
+  border-radius: 10px;
+}
+
+/* half => h */
+.brh {
+  border-radius: 50%;
+}
