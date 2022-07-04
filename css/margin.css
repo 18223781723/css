@@ -6,8 +6,8 @@
   margin-right: auto;
 }
 
-.mr {
-  margin: 0;
+.m0 {
+  margin: 0px;
 }
 
 .mt0 {
@@ -24,6 +24,22 @@
 
 .ml0 {
   margin-left: 0px;
+}
+
+.mt1 {
+  margin-top: 1px;
+}
+
+.mr1 {
+  margin-right: 1px;
+}
+
+.mb1 {
+  margin-bottom: 1px;
+}
+
+.ml1 {
+  margin-left: 1px;
 }
 
 .mt5 {
